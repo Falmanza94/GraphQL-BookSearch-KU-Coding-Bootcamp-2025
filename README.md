@@ -15,7 +15,7 @@ Coming Soon
 
 1. Clone the repository:
 ```bash
-    git clone https://github.com/Falmanza94/React-Portfolio-Ku-Coding-Bootcamp-2025.git
+    git clone https://github.com/Falmanza94/GraphQL-BookSearch-KU-Coding-Bootcamp-2025
 ```
 2. Install dependencies:
 ```bash
