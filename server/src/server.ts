@@ -7,9 +7,9 @@ import cors from 'cors';
 import dotenv from 'dotenv';
 
 import db from './config/connection.js';
-import { typeDefs } from './schemas/typeDefs';
-import { resolvers } from './schemas/resolvers';
-import { getUserFromToken } from './services/auth';
+import { typeDefs } from './schemas/typeDefs.js';
+import { resolvers } from './schemas/resolvers.js';
+import { getUserFromToken } from './services/auth.js';
 
 dotenv.config();
 
